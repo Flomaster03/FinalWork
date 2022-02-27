@@ -10,4 +10,4 @@
 - нажимаю клавиши на клавиатуре двумя пальцами
 - смотрю в экран двумя глазами
 
-![Я даю ценные указания](C:\Users\Qwerty\Downloads\homeWorkGit\finalWork\img\rabbit)
+![Я даю ценные указания](img\rabbit)
